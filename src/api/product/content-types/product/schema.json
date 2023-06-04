@@ -30,7 +30,7 @@
         "images"
       ]
     },
-    "URL": {
+    "url": {
       "type": "uid",
       "targetField": "name"
     }
